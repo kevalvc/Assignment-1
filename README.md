@@ -5,7 +5,7 @@ This is a webpage for the company **Vecta Corps**.
 
 ### About the _Vecta Corps_
 
-<!-- ![Dunder Mifflin Paper Company](https://raw.githubusercontent.com/kevalvc/Assignment-1/master/VC-logo.jpg) -->
+<!-- ![Dunder Mifflin Paper Company](https://raw.githubusercontent.com/kevalvc/Assignment-1/master/VC-logo.png) -->
 
 
 You can access the homepage of [Vecta Corporation's website](https://kevalvc.github.io/Assignment-1/) to  by clicking on it.  
@@ -16,12 +16,16 @@ You will find more information regarding the solutoions offered by Vecta Corps w
  * vProspect 2.0
  * vConvert 2.0
  * vRetain 1.0
+
+<br>
  
  ### Customer Values
 
  We have even received a lot of appreciation from our current and previous customers. We would thus like to share some of the **Client Testimonials**:
  
  > "Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially."
+
+<br>
 
  ### Contact Us
 
@@ -35,3 +39,12 @@ If you have any questions regarding our company, you can contact the staff throu
 | Mike | Vice President, Marketing |
 | Ferris | Founder and CEO |
 
+<br>
+
+You can further write to us at:  
+```
+Vecta Corporation
+555 Technology Place
+San Diego, CA 92115
+Tel. (800) 555-5555
+```
