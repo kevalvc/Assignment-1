@@ -5,7 +5,7 @@ This is a webpage for the company **Vecta Corps**.
 
 ### About the _Vecta Corps_
 
-<!-- ![Dunder Mifflin Paper Company](https://raw.githubusercontent.com/kevalvc/Assignment-1/master/VC-logo.jpg) -->
+![Dunder Mifflin Paper Company](https://raw.githubusercontent.com/kevalvc/Assignment-1/master/VC-logo.jpg)
 
 
 You can access the homepage of [Vecta Corporation's website](https://kevalvc.github.io/Assignment-1/) to  by clicking on it.  
@@ -19,7 +19,7 @@ You will find more information regarding the solutoions offered by Vecta Corps w
  
  ### Customer Values
 
- We have even received a lot of appreciation from our current and previous customers. We would thus like to share some of the **Client Testimonials**:
+ We have even received a lot of appreciation from our current and previous customers. We would thus like to share one of the **Client Testimonials**:
  
  > "Throughout the years we have worked with Vecta Corporation, we have always been amazed at the level of dedication and professionalism that they have provided us and our WGDC products. It is this commitment that has increased both our income and exposure exponentially."
 
